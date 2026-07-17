@@ -1,55 +1,34 @@
-# Prompt Library for Content Generation
+Prompt Library for Content Generation
 
 Name: Mahammad Faizul Huq
 
----
+Prompt 1: LinkedIn Post for Product Launch
+...
+(Completed)
 
-# Prompt 1: LinkedIn Post for Product Launch
-
-## Use Case
-Create a LinkedIn post announcing a new product launch.
-
-## Techniques Used
-- Role Prompting
-- Few-shot Prompting
-- Constraints
-
-## Prompt Template
-
-Role:
-You are an experienced LinkedIn content writer.
-
-Task:
-Write a LinkedIn post announcing the launch of {product_name}.
-
-Context:
-The product helps {target_audience} solve {problem}.
-
-Constraints:
-- Maximum 180 words
-- Professional tone
-- Include one CTA
-- Include 3 hashtags
-
-Example:
-Input:
-Product = AI Resume Builder
-
-Output:
-🚀 We're excited to launch...
-
-## Sample Output
-
-🚀 Introducing AI Resume Builder...
+Prompt 2: Instagram Promotion
 ...
 
-## Iteration
+Prompt 3: Blog Introduction
+...
 
-### Version 1
-Basic announcement.
+Prompt 4: Cold Outreach Email
+...
 
-### Version 2
-Added stronger CTA and hashtags.
+Prompt 5: Follow-up Email
+...
 
-Improvement:
-Better engagement.
+Prompt 6: Product Description
+...
+
+Prompt 7: YouTube Title & Description
+...
+
+Prompt 8: Newsletter Section
+...
+
+Prompt 9: Google Ad Copy
+...
+
+Prompt 10: 7-Day Content Calendar
+...
